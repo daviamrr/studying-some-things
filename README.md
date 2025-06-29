@@ -1,0 +1,1 @@
+## Estudando alguns métodos do firebase, relembrando sintaxe do type commonjs e mais algumas coisas.
